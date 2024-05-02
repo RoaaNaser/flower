@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  outline: none;
+  text-transform: capitalize;
+}
+/* 
+body{
+  background-image: url(./img/back-1.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  overflow-x: hidden;
+} */
+
+.nav-link:hover {
+  color: #8c8c8c;
+}
+/* HOME Color */
+a.acttive,
+a:hover {
+  color:#8c8c8c;
+}
+.btn{
+  color: #e7e7e7;
+  border:solid;
+}
+.btn:hover{
+  background-color: #8c8c8c;
+  color: white;
+  border: none;
+}
+.nav-item{
+  font-weight: 600;
+  color: #e7e7e7;
+}
+/* 
+.style-slide{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+} */
